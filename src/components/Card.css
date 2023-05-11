@@ -1,0 +1,8 @@
+.card-container{
+    margin: 0 auto;
+display: grid;
+justify-content: center;
+border: solid 2px black;
+text-align: center;
+width: 30%;
+}
